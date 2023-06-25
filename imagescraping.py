@@ -2,6 +2,8 @@ from selenium import webdriver
 import urllib.request
 import os
 
+#this is the code for webscraping the data for culural heritage site for our major project
+
 # Configure Selenium webdriver
 driver = webdriver.Chrome()  # Change this path to the location of your chromedriver executable
 
